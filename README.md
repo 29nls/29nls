@@ -6,9 +6,11 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=29nls&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h1 data-importer="text" align="center"></h1>
+
+###
+
+<p data-importer="text" align="left"></p>
 
 ###
 
